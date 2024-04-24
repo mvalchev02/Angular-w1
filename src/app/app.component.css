@@ -1,0 +1,34 @@
+.pageHeader {
+    size:40px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.AboutMeSection {
+    margin: 20px;
+    padding: 10px;
+    border:10px;
+    text-align: Left;
+  }
+  
+ .HobbiesSection {
+    margin: 20px;
+    padding: 10px;
+    border:10px;
+    text-align: Left;
+ } 
+  
+ .ContentCreators {
+    margin: 20px;
+    padding: 10px;
+    border:10px;
+    text-align: Left;
+ }
+ 
+ .Prices {
+    margin: 20px;
+    padding: 10px;
+    border:10px;
+    text-align: Left;
+ }

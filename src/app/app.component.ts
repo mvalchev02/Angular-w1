@@ -9,5 +9,24 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Homework1';
+  title = 'Page about me';
+
+  name = 'Мартин Вълчев';
+  age = 21;
+  occupation = 'Студент'
+  speciality = 'Информатика'
+  course = 'Трети'
+
+  hobby1 = 'Cooking';
+  hobby2 = 'Gaming';
+  hobby3 = 'Watching movies';
+  interes11 = 'Coding'
+  
+  title2="Светът на Ванката"
+
+  javaApp = 150 + ' ' + "USD";
+  NetApp = 180 + ' ' + "USD";
+  jsAPP = 165 + ' ' + "USD";
+  DataScienceApp = 200 + ' ' + "USD";
+
 }
